@@ -2,7 +2,7 @@
 # Courtesy @yasirsiddiqui
 
 """
-.bye
+.by
 """
 from telethon.tl.functions.channels import LeaveChannelRequest
 from userbot.utils import admin_cmd
