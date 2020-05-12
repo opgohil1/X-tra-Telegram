@@ -5,7 +5,7 @@
 """Cmd= `.zombie`
 Usage: Searches for deleted accounts in a groups and channels.
 Use .zombies clean to remove deleted accounts from the groups and channels.
-\nPorted by ©[GANG OPGOHIL](t.me/opgohil_bot) and ©[OPGOHIIL](t.me/OPGOHIL)"""
+\nPorted by ©[GANG OPGOHIL](t.me/opgohil_bot) and ©[OPGOHIL](t.me/OPGOHIL)"""
 
 from telethon import events
 from userbot.utils import admin_cmd
