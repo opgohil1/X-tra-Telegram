@@ -29,14 +29,15 @@ async def _(event):
             "U",
             "B",
             "C",
-            "FK",
-            "UU",
-            "FCUK",
-            "UOY",
-            "C",
-            "F",
-            "Y",
-            "F",
+            "O",
+            "K",
+            "OK",
+            "SAR",
+            "O",
+            "K",
+            "O",
+            "K",
+            "O",
             "Ok Sar 😇"
         ]
 
